@@ -1,0 +1,5 @@
+node_modules
+*.log
+heroku_setup.bat
+*.bak
+server/config/config.json
